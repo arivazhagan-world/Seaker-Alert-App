@@ -32,13 +32,3 @@ A real-time system monitoring and alerting web application that tracks CPU, RAM,
 | HTML + Bootstrap| Dashboard UI                         |
 | Docker          | Containerized deployment             |
 
----
-
-## 🚀 Getting Started
-
-### 🔧 Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Seaker-Alert-App.git
-   cd Seaker-Alert-App
