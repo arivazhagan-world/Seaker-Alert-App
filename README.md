@@ -1,4 +1,4 @@
-# 🛰️ Seaker Alert App
+# Seaker Alert App
 
 A real-time system monitoring and alerting web application that tracks CPU, RAM, disk usage, and system uptime. The app triggers alerts when usage exceeds user-defined thresholds and provides a clean dashboard UI for visual monitoring.
 
@@ -17,8 +17,6 @@ A real-time system monitoring and alerting web application that tracks CPU, RAM,
 ## 📊 Dashboard Preview
 
 >  Visit: `http://localhost:5000/dashboard`
-
-<img src="screenshots/dashboard.png" alt="Dashboard Screenshot" width="80%">
 
 ---
 
